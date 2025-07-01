@@ -23,7 +23,7 @@ cargo install dotclock
 ```
 ## 🛠️ Установка ручками
 ```bash
-git clone https://github.com/youruser/dotclock.git
+git clone https://github.com/timscreep/dotclock.git
 cd dotclock
 cargo build --release
 ```
