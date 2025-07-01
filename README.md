@@ -27,3 +27,6 @@ git clone https://github.com/youruser/dotclock.git
 cd dotclock
 cargo build --release
 ```
+TODO:
+- [ ] CLI аргументы
+- [ ] TUI
